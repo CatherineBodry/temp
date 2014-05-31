@@ -7,4 +7,4 @@ gakk
 
 * About knights
 * About quests
-* About castles
+* [About castles](http://en.wikipedia.org/wiki/Castle)
